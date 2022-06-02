@@ -28,5 +28,5 @@ int check_cycle(listint_t *list)
 		}
 	}
 
-	return (found);
-    
+}
+    return (found);
