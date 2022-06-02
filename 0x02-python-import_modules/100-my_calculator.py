@@ -38,3 +38,4 @@ if __name__ == '__main__':
     else:
         print('Usage: ./100-my_calculator.py <a> <operator> <b>')
         exit(1)
+        
