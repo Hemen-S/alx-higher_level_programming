@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 import sys
-
 if __name__ == '__main__':
     """Prints the argument list passed to the program
     The program takes all the arguments starting from the second
@@ -18,5 +17,4 @@ if __name__ == '__main__':
         for i in range(1, l_av + 1):
             print('{:d}: {}'.format(i, av[i]))
     elif l_av == 0:
-        print(l_av, 'arguments.')
-        
+        print(l_av, 'arguments.')        
