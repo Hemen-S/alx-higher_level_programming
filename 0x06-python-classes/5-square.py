@@ -55,8 +55,12 @@ class Square:
             print()
             return None
 
+<<<<<<< HEAD
+        
+=======
         for i in range(1, self.area() + 1):
             print('#', end='')
 
             if i % self.__size == 0 and i > 0:
                 print()
+>>>>>>> 5602da4db3053ce799c09ab4623f2f32d513bf81
